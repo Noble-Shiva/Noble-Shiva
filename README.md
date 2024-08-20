@@ -1,15 +1,14 @@
+<h1 align="center">Hi there, I'm Shiva <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+
+<br />
+
 ## Hi there 👋
 
-**Noble-Shiva/Noble-Shiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am Full-Stack Javascript Developer with 9+ years if enterprise experience**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🔭 I’m currently working on something cool and amazing involving IOT & Mobile Devices
+- 🌱 I’m currently learning Next JS, Devops & K8
+- 👯 I’m looking to collaborate on any OSS Projects
+- 💬 Ask me anything related to Javascript/Dart or React/Next/Flutter
+- 📫 How to reach me: [l.shivkumarreddy@gmail.com](mailto:l.shivkumarreddy@gmail.com)
