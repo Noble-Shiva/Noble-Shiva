@@ -1,10 +1,6 @@
 <h1 align="center">Hi there, I'm Shiva <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-<br />
-
-## Hi there 👋
-
 **I am Full-Stack Javascript Developer with 9+ years if enterprise experience**
 
 - 🔭 I’m currently working on something cool and amazing involving IOT & Mobile Devices
