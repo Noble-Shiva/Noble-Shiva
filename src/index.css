@@ -1,0 +1,68 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body {
+  @apply bg-black text-gray-100;
+}
+
+.icon-hover {
+  @apply transition-colors duration-300 ease-in-out;
+}
+
+.icon-hover:hover {
+  @apply text-[#007acc];
+}
+
+.icon-hover[data-icon='react']:hover,
+.icon-hover[data-icon='reactnative']:hover {
+  @apply text-[#61dafb];
+}
+
+.icon-hover[data-icon='next']:hover {
+  @apply text-white;
+}
+
+.icon-hover[data-icon='tailwind']:hover {
+  @apply text-[#38b2ac];
+}
+
+.icon-hover[data-icon='node']:hover {
+  @apply text-[#68a063];
+}
+
+.icon-hover[data-icon='express']:hover {
+  @apply text-[#000000];
+}
+
+.icon-hover[data-icon='aws']:hover {
+  @apply text-[#ff9900];
+}
+
+.icon-hover[data-icon='docker']:hover {
+  @apply text-[#2496ed];
+}
+
+.icon-hover[data-icon='kubernetes']:hover {
+  @apply text-[#326ce5];
+}
+
+.icon-hover[data-icon='jenkins']:hover {
+  @apply text-[#d24939];
+}
+
+.icon-hover[data-icon='terraform']:hover {
+  @apply text-[#7b42bc];
+}
+
+.icon-hover[data-icon='flutter']:hover {
+  @apply text-[#02569B];
+}
+
+.icon-hover[data-icon='android']:hover {
+  @apply text-[#3DDC84];
+}
+
+.icon-hover[data-icon='ai']:hover {
+  @apply text-[#FF6B6B];
+}
