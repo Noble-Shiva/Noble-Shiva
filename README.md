@@ -8,4 +8,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 - 👯 I’m looking to collaborate on any OSS Projects
 - 💬 Ask me anything related to Javascript/Dart or React/Next/Flutter
 - 📫 How to reach me: [l.shivkumarreddy@gmail.com](mailto:l.shivkumarreddy@gmail.com)
-- 🖥️ More about me - <a href="https://shivakumarreddy.in/ target="_blank">shivakumarreddy.in</a>
+- 🖥️ More about me - [shivakumarreddy.in](https://shivakumarreddy.in)
