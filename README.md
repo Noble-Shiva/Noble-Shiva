@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Shiva <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">Hi there, I'm Shiva 👋🏻 </h1>
 
 **I am Full-Stack Javascript Developer with 9+ years of enterprise experience**
 
