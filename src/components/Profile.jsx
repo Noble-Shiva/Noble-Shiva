@@ -23,7 +23,7 @@ function Profile() {
         <h1 className="text-2xl md:text-4xl font-bold mb-2">
           L Shiva Kumar Reddy
         </h1>
-        <h2 className="text-md md:text-xl text-gray-400 mb-6">UI Developer</h2>
+        <h2 className="text-md md:text-xl text-gray-400 mb-6">Full-Stack Developer</h2>
 
         <div className="mb-6">
           <h3 className="text-md md:text-lg font-semibold mb-2">
