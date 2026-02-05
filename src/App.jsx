@@ -4,6 +4,7 @@ import Profile from './components/Profile';
 import About from './components/About';
 import Experience from './components/Experience';
 import Skills from './components/Skills';
+import Blog from './components/Blog';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import { Analytics } from "@vercel/analytics/react"
@@ -23,6 +24,9 @@ function App() {
           <Experience />
           <div id="projects">
             <Skills />
+          </div>
+          <div id="blog">
+            <Blog />
           </div>
           <Contact />
         </main>

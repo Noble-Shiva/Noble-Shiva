@@ -51,6 +51,14 @@ function Header() {
                   projects
                 </a>
               </li>
+              <li>
+                <a
+                  href="#blog"
+                  className="text-gray-500 hover:text-gray-300"
+                >
+                  blog
+                </a>
+              </li>
             </ul>
           </nav>
         </div>

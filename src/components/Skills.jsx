@@ -3,26 +3,27 @@ import React from 'react';
 const skillCategories = [
   {
     title: 'Languages',
-    skills: ['HTML', 'CSS', 'JAVASCRIPT', 'TYPESCRIPT'],
+    skills: ['JAVASCRIPT', 'TYPESCRIPT', 'PYTHON', 'DART', 'HTML', 'CSS'],
   },
   {
-    title: 'Frameworks and libraries',
-    skills: ['REACT', 'NEXT.JS', 'ANGULAR', 'IONIC', 'FLUTTER', 'REACT NATIVE'],
+    title: 'Frontend',
+    skills: ['REACT', 'NEXT.JS', 'ANGULAR', 'FLUTTER', 'REACT NATIVE', 'IONIC'],
   },
   {
-    title: 'JavaScript libraries',
-    skills: ['REDUX', 'FORMIK', 'JEST'],
+    title: 'Backend & APIs',
+    skills: ['NODE.JS', 'EXPRESS', 'FASTAPI', 'REST', 'GRAPHQL'],
   },
   {
-    title: 'Preprocessors, css style, component and motion libraries',
-    skills: [
-      'SCSS',
-      'SASS',
-      'BOOTSTRAP',
-      'TAILWIND',
-      'SHADCN UI',
-      'MATERIALUI',
-    ],
+    title: 'DevOps & Cloud',
+    skills: ['AWS', 'DOCKER', 'KUBERNETES', 'CI/CD', 'LINUX'],
+  },
+  {
+    title: 'Databases',
+    skills: ['POSTGRESQL', 'MONGODB', 'REDIS', 'FIREBASE'],
+  },
+  {
+    title: 'UI Libraries & Tools',
+    skills: ['TAILWIND', 'SHADCN UI', 'MATERIALUI', 'SCSS', 'BOOTSTRAP'],
   },
 ];
 
@@ -32,13 +33,12 @@ function Skills() {
       <h2 className="text-2xl font-bold mb-6">Skills</h2>
       <p className="mb-4">
         A look at all the programming languages, libraries, and tools I've
-        worked with. I started programming about +4 years ago. I have tried a
-        few programming languages and technology stack, both Backend and
-        Frontend.
+        worked with over 8+ years of building software. From frontend interfaces 
+        to backend systems, mobile apps to cloud infrastructure.
       </p>
       <p className="mb-6">
-        Even though the scope of web development is wide, I was very interested
-        and focused on Frontend development.
+        I enjoy the full spectrum of development — crafting pixel-perfect UIs, 
+        designing robust APIs, and shipping products that make an impact.
       </p>
       {skillCategories.map((category, index) => (
         <div key={index} className="mb-6">
