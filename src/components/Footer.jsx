@@ -64,7 +64,7 @@ function Footer() {
             <h3 className="text-lg font-semibold mb-4">More</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#" className="flex items-center">
+                <a href="#blog" className="flex items-center">
                   <RiArticleLine className="mr-2" /> Blog
                 </a>
               </li>
